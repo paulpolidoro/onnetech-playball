@@ -1,0 +1,19 @@
+.navbar-brand{
+    position: absolute !important;
+    top: -23px !important;
+}
+
+.top-border-yellow{
+    border-top: solid 3px #ffe000;
+}
+.top-border-green{
+    border-top: solid 3px #468847;
+}
+.top-border-red{
+    border-top: solid 3px #c9302c;
+}
+
+
+.assunto label{
+    margin-right: 20px;
+}
